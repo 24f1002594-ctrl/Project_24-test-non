@@ -3,7 +3,7 @@
 ## Summary
 This project was automatically generated to fulfill the following task:
 
-Create a simple Bootstrap page with a heading 'Hello World' and a button that shows an alert when clicked
+Create a simple Bootstrap page with a heading 'Hello Shreedeep, thank you for the Night!' and a button that shows an alert when clicked
 
 ## Setup
 1. Clone this repository
@@ -14,7 +14,7 @@ Simply open the `index.html` file in a modern web browser. The application is a 
 
 ## Evaluation Checks
 This project was designed to pass the following checks:
-1. Page has Bootstrap loaded
+1. Page uses Bootstrap
 2. Page has an h1 heading
 3. Page has a button element
 4. Button has an onclick handler
